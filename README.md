@@ -27,8 +27,6 @@ Spring Boot Task Tracer APIS allows you to:
 
 ### Data Model
 
-The `Todo` class represents a task with the following attributes:
-
 - `id`: Unique identifier for the task.
 - `username`: Username associated with the task.
 - `description`: Task description.
@@ -37,17 +35,7 @@ The `Todo` class represents a task with the following attributes:
 
 ### Security
 
-This application does not include authentication or authorization. It is recommended to add security features if deploying it in a production environment.
+This application does have authentication or authorization IMPLEMENTED USING SPRING SECURITY. 
 
-## Contributing
-
-Contributions are welcome! If you would like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and test them thoroughly.
-4. Create a pull request with a clear description of your changes.
-
-## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
