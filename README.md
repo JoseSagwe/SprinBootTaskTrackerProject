@@ -36,6 +36,3 @@ Spring Boot Task Tracer APIS allows you to:
 ### Security
 
 This application does have authentication or authorization IMPLEMENTED USING SPRING SECURITY. 
-
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
