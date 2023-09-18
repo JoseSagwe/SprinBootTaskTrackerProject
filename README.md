@@ -20,17 +20,17 @@ Spring Boot Task Tracer APIS allows you to:
 ### Endpoints
 
 - `/list-todos`: Displays a list of all tasks.
-- 
+  
 - `/add-todo` (GET): Shows a form to add a new task.
-- 
+  
 - `/add-todo` (POST): Handles the submission of a new task.
-- 
+  
 - `/delete-todo`: Deletes a task based on the provided `id`.
-- 
+  
 - `/update-todo` (GET): Shows a form to update an existing task.
-- 
+  
 - `/update-todo` (POST): Handles the submission of updated task details.
-- 
+  
 
 ### Data Model
 
