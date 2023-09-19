@@ -2,7 +2,6 @@
 
 # Spring Boot Task Tracer
 
-
 ![todoapi](https://github.com/JoseSagwe/SpringBootTaskTrackerProject/assets/110198843/ed30966d-348e-452a-9207-20980effe1c8)
 
 Spring Boot Task Tracer is a simple web application designed to help you manage your tasks and to-dos. This application is built using the Spring Boot framework and provides basic CRUD (Create, Read, Update, Delete) operations for managing tasks.
@@ -30,7 +29,6 @@ Spring Boot Task Tracer APIS allows you to:
 - `/update-todo` (GET): Shows a form to update an existing task.
   
 - `/update-todo` (POST): Handles the submission of updated task details.
-  
 
 ### Data Model
 
