@@ -16,7 +16,6 @@ Spring Boot Task Tracer APIS allows you to:
 - Delete tasks.
 
 ### Endpoints
-
 - `/list-todos`: Displays a list of all tasks.
   
 - `/add-todo` (GET): Shows a form to add a new task.
@@ -36,7 +35,6 @@ Spring Boot Task Tracer APIS allows you to:
   
 - `username`: Username associated with the task.
 
-  
 - `description`: Task description.
   
 - `targetDate`: Target date for completing the task.
