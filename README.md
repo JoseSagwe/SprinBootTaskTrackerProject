@@ -7,7 +7,6 @@
 Spring Boot Task Tracer is a simple web application designed to help you manage your tasks and to-dos. This application is built using the Spring Boot framework and provides basic CRUD (Create, Read, Update, Delete) operations for managing tasks.
 
 ## Introduction
-
 Spring Boot Task Tracer APIS allows you to:
 
 - View a list of all your tasks.
