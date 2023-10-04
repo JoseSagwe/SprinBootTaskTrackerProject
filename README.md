@@ -41,7 +41,6 @@ Spring Boot Task Tracer APIS allows you to:
   
 - `done`: Boolean indicating whether the task is completed.
 
-  
 
 ### Security
 
