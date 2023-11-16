@@ -14,9 +14,6 @@ Spring Boot Task Tracer APIS allows you to:
 - Update existing tasks.
 - Delete tasks.
 
-
-
-
 ### Endpoints
 - `/list-todos`: Displays a list of all tasks.
   
